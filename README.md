@@ -27,3 +27,12 @@ Follow these steps to run the quiz application on your local machine:
 - Java 8
 - Ant build tools
 - Netbeans 8.2
+
+## Scenerio
+1. Run the application from netbeans
+2. Login as student 
+3. Add a question
+4. View marks of all student
+5. close and run the app again and login as student this time
+6. participate in exam
+7. you will see marks at the end of exam
