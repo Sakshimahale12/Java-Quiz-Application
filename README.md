@@ -25,6 +25,7 @@ Follow these steps to run the quiz application on your local machine:
 
 ## Technology used:
 - Java 8
+- java-swing and AWT libraries
 - Ant build tools
 - Netbeans 8.2
 
